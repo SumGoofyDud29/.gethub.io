@@ -1,0 +1,26 @@
+body {background-color: cornsilk;}
+p {font-size: 150%; background-color: wheat;}
+
+a {font-size: 160%;}
+img {width: 300px;}
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 0px;
+    background: darkgrey;
+}
+nav h2 {
+    margin: 0px
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0px 0px;
+}
+nav li {
+    padding-left: 1rem;
+}
+table, th, td {
+    border: 1px solid;
+
+}
